@@ -6,4 +6,4 @@ class Solution:
             if a%2==0:
                 memo.add(a//2)
             memo.add(a*2)
-        return False
+        return False   
