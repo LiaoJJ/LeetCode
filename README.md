@@ -19,3 +19,12 @@
 1277. Count Square Submatrices with All Ones  
 ```
 
+#### 2.16
+```
+new file:   198. House Robber .py
+new file:   213. House Robber II .py
+new file:   309. Best Time to Buy and Sell Stock with Cooldown .py
+new file:   740. Delete and Earn .py
+new file:   790. Domino and Tromino Tiling .py
+new file:   801. Minimum Swaps To Make Sequences Increasing .py
+```
