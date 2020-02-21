@@ -28,3 +28,11 @@ new file:   740. Delete and Earn .py
 new file:   790. Domino and Tromino Tiling .py
 new file:   801. Minimum Swaps To Make Sequences Increasing .py
 ```
+
+#### 2.20
+```
+        new file:   273. Integer to English Words .py
+        new file:   325. Maximum Size Subarray Sum Equals k .py
+        new file:   56. Merge Intervals .py
+        new file:   621. Task Scheduler .py
+```
